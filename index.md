@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Pursuing Programming Purposefully (Dabbling in Programming)
 
-![Image of fast.ai logo](images/logo.png)
+I finally decided to start my own blog.
 
-## This is a title
+I plan to publish mainly on programming topics, either in german or in english.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Since I experimented on and off with this idea quite some time, I start with publishing several older posts/tries, maybe slightly updated.

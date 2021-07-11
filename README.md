@@ -1,3 +1,7 @@
-# Your blog
+# Pursuing Programming Purposefully (Dabbling in Programming)
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+I finally decided to start my own blog.
+
+I plan to publish mainly on programming topics, either in german or in english.
+
+Since I experimented on and off with this idea quite some time, I start with publishing several older posts/tries, maybe slightly updated.
